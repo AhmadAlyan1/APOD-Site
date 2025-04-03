@@ -66,10 +66,6 @@ Before running the project, make sure to set up your API key if required. Update
 - Bootstrap 5
 - JavaScript
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
 Ahmad Alyan
